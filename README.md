@@ -1,1 +1,1 @@
-## Advenced Typescript Examples
+## Advanced Typescript Examples
